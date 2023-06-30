@@ -3,7 +3,7 @@ module.exports = {
       {
         name: "comunidad-gz",
         script: "pnpm",
-        args: "run start -- -p 8057",
+        args: "run start -- -p 8058",
       },
     ],
   };
