@@ -1,10 +1,8 @@
 module.exports = {
-    apps: [
+  apps: [
       {
-        name: "comunidad-gz",
-        script: "pnpm",
-        args: "run start -- -p 8057",
+          name: "comunidad-gz",
+          script: "./start.sh",
       },
-    ],
-  };
- 
+  ],
+};
